@@ -65,7 +65,6 @@ a {
 }
 .general-slide {
     transform: translateX(4%);
-    overflow-x: hidden;
 }
 
 header {
